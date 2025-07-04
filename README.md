@@ -37,8 +37,6 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 ---
 
-📫 **Let’s Connect!**
-
 ### 🤝 Connect with Me
 
 ---
