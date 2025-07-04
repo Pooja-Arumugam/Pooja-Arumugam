@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Arumugam</h1>
+<h1 align="center">Hi 👋, I'm Pooja Arumugam - Your friendly Data Magician</h1>
 <h3 align="center">Data Analyst | Cloud Enthusiast | Python + SQL + Power BI</h3>
 
 <p align="center">
