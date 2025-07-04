@@ -39,9 +39,24 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 📫 **Let’s Connect!**
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pooja-arumugam/)
-- 📧 arumugam.po@northeastern.edu | poojaedumail@gmail.com 
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/pooja.arumugam)  
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pooja-arumugam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:arumugam.po@northeastern.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/pooja.arumugam" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pooja-Arumugam" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 
 ---
