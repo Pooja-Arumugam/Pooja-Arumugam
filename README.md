@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pooja Arumugam - Your friendly Data Magician</h1>
+<h1 align="center">Hi, I'm Pooja Arumugam - Your friendly Data Magician</h1>
 <h3 align="center">Data Human | Python + SQL + Power BI | ETL | Tensorflow | GenAI </h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-🔍 **About Me**
+ **About Me**
 
-- 🎓 Master’s in Data Analytics Engineering at **Northeastern University**, Boston  
-- 🧠 Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, and **Cloud Technologies (Azure, AWS)**  
-- 🔬 Passionate about **data-driven storytelling**, building **ETL pipelines**, and deploying **end-to-end analytics solutions**  
-- 🏆 **Winner** – WiDS Terrabyte Datathon 2025 (Global Renewable Energy Trends)  
-- 💡 Driven to solve real-world problems using **data science, analytics, and cloud technologies**
+- Master’s in Data Analytics Engineering at **Northeastern University**, Boston  
+- Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, and **Cloud Technologies (Azure, AWS)**  
+- Passionate about **data-driven storytelling**, building **ETL pipelines**, and deploying **end-to-end analytics solutions**  
+- **Winner** – WiDS Terrabyte Datathon 2025 (Global Renewable Energy Trends)  
+- Driven to solve real-world problems using **data science, analytics, and cloud technologies**
 
 ---
 
@@ -37,7 +37,7 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 ---
 <p align="left">
@@ -58,7 +58,7 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 ---
 
-### ⚒️ Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
@@ -83,7 +83,7 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 ---
 
-⚡ **Fun Fact:**  
+ **Fun Fact:**  
 - I once tried to train a model to predict my weekend plans… it returned “debugging” with 98% confidence.
 - I once convinced my code to work by whispering compliments to it. We’ve been in a committed bond ever since.
 
