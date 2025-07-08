@@ -17,7 +17,7 @@
 
 ---
 
-🛠️ **Languages & Tools**
+ **Languages & Tools**
 
 **Programming and Data Management:**  
 Python, R, SQL (PostgreSQL, MySQL, SQL Server), Java, MongoDB  
