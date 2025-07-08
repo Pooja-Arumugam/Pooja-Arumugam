@@ -20,7 +20,7 @@
  **Languages & Tools**
 
 **Programming and Data Management:**  
-Python, R, SQL (PostgreSQL, MySQL, SQL Server), Java, MongoDB  
+Python, R, SQL (PostgreSQL, MySQL, SQL Server), Java, MongoDB, PySpark
 
 **Data Engineering and Automation:**  
 Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Gen2, Databricks, AWS, Redshift, Snowflake, ETL Pipelines, Data Warehousing, Feature Engineering, VBA Macros  
