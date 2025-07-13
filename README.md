@@ -7,7 +7,7 @@
 
 ---
 
- **About Me**
+ ***About Me***
 
 - Master’s in Data Analytics Engineering at **Northeastern University**, Boston  
 - Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, **GENAI**, and **Cloud Technologies (Azure, AWS)**  
@@ -17,7 +17,7 @@
 
 ---
 
- **Languages & Tools**
+ ***Languages & Tools***
 
 **Programming and Data Management:**  
 Python, R, SQL (PostgreSQL, MySQL, SQL Server), Java, MongoDB, PySpark
