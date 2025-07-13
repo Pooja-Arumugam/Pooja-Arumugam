@@ -81,8 +81,6 @@ Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)
 
 ---
 
----
-
  **Fun Fact:**  
 - I once tried to train a model to predict my weekend plans… it returned “debugging” with 98% confidence.
 - I once convinced my code to work by whispering compliments to it. We’ve been in a committed bond ever since.
