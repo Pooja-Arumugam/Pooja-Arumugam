@@ -10,7 +10,7 @@
  **About Me**
 
 - Master’s in Data Analytics Engineering at **Northeastern University**, Boston  
-- Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, and **Cloud Technologies (Azure, AWS)**  
+- Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, **GENAI**, and **Cloud Technologies (Azure, AWS)**  
 - Passionate about **data-driven storytelling**, building **ETL pipelines**, and deploying **end-to-end analytics solutions**  
 - **Winner** – WiDS Terrabyte Datathon 2025 (Global Renewable Energy Trends)  
 - Driven to solve real-world problems using **data science, analytics, and cloud technologies**
