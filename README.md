@@ -7,7 +7,7 @@
 
 ---
 
- ***About Me***
+ **About Me**
 
 - Master’s in Data Analytics Engineering at **Northeastern University**, Boston  
 - Strong foundation in **Python**, **SQL**, **Excel**, **Power BI**, **GENAI**, and **Cloud Technologies (Azure, AWS)**  
@@ -17,21 +17,21 @@
 
 ---
 
- ***Languages & Tools***
+ **Languages & Tools**
 
-**Programming and Data Management:**  
+***Programming and Data Management:***
 Python, R, SQL (PostgreSQL, MySQL, SQL Server), Java, MongoDB, PySpark
 
-**Data Engineering and Automation:**  
+***Data Engineering and Automation:*** 
 Azure Data Factory, Azure Synapse Analytics, Azure Data Lake Gen2, Databricks, AWS, Redshift, Snowflake, ETL Pipelines, Data Warehousing, Feature Engineering, VBA Macros  
 
-**Machine Learning and Analytics:**  
+***Machine Learning and Analytics:***  
 XGBoost, Logistic Regression, Clustering, NLP, Predictive Modeling, A/B Testing, Generative AI, Scikit-learn, TensorFlow, PyTorch, ROC-AUC, Confusion Matrix  
 
-**Visualization and BI:**  
+***Visualization and BI:***  
 Power BI, Tableau, Streamlit, Excel Dashboards, Looker, Google Sites, Flourish, DAX  
 
-**Certifications and Licenses:**  
+***Certifications and Licenses:*** 
 Azure Data Fundamentals, Deloitte – Data Analytics Job Simulation (Forage)  
 
 
